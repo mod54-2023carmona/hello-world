@@ -3,10 +3,7 @@ Olá meu nome é Elvis carmona sou aluno do curos Engenharia de Software do modu
 Mundo Unicesumar! vamos a fazer um exemplo de IC 🚀
 <h2 align="center"> 🖥️ Neste guia de início rápido: </h2>
 
-Estamos criaando e usando um repositório
-Vou iniciar e gerenciar um novo branch
-Fazer alterações em um arquivo e enviá-los por push para GitHub como commits
-Vou abrir e realizar merge de um pull request
+Estou criaando e usando um repositório, Vou iniciar e gerenciar um novo branch, vou fazer alterações em um arquivo, enviá-los por push para GitHub como commits e vou abrir e realizar merge de um pull request.
 
 <img src="https://i.imgur.com/8KAiiMW.jpg">
 
